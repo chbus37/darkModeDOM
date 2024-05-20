@@ -4,5 +4,8 @@ const d = document;
 
 
 d.addEventListener("DOMContentLoaded", (e) => {
-    darkTheme(".dark-theme-btn","dark-mode");
+    
 });
+
+
+darkTheme(".dark-theme-btn","dark-mode");
